@@ -101,16 +101,7 @@ def main():
         if not x8 and img_L.size(2)//8==0 and img_L.size(3)//8==0:
             img_E = model(img_L)
         elif not x8 and (img_L.size(2)//8!=0 or img_L.size(3)//8!=0):
-            #img_E = utils_model.test_mode(model, img_L, refield=64, mode=5)
-            total = 0
-            for i in range(1, 21, 1):
-                start_t = time.time()
-                img_E = utils_model.test_mode(model, img_L, refield=64, mode=5)
-                stop_t = time.time()
-                running_time = stop_t - start_t
-                total = total + running_time
-            print('total time: {0:.3f}'.format(total / 20))
-
+            img_E = utils_model.test_mode(model, img_L, refield=64, mode=5)
         elif x8:
             img_E = utils_model.test_mode(model, img_L, mode=3)
         img_E = util.tensor2uint(img_E)
