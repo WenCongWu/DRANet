@@ -984,21 +984,10 @@ def imresize_np(img, scale, antialiasing=True):
 
 
 if __name__ == '__main__':
-    original_dataroot= '../trainsets/data/DIV2K_train_HR'
-    taget_dataroot= '../trainsets/DIV2K_train_HR_gray'
-    #split_imageset(original_dataroot, taget_dataroot, n_channels=3, p_size=512, p_overlap=96, p_max=800)
-    split_imageset(original_dataroot, taget_dataroot, n_channels=1, p_size=512, p_overlap=96, p_max=800)
-#    img = imread_uint('test.bmp', 3)
-#    img = uint2single(img)
-#    img_bicubic = imresize_np(img, 1/4)
-#    imshow(single2uint(img_bicubic))
-#
-#    img_tensor = single2tensor4(img)
-#    for i in range(8):
-#        imshow(np.concatenate((augment_img(img, i), tensor2single(augment_img_tensor4(img_tensor, i))), 1))
-    
-#    patches = patches_from_image(img, p_size=128, p_overlap=0, p_max=200)
-#    imssave(patches,'a.png')
+    original_dataroot= '../trainsets/Flickr2K'
+    taget_dataroot= '../trainsets/Flickr2K_train_HR'
+    split_imageset(original_dataroot, taget_dataroot, n_channels=3, p_size=512, p_overlap=96, p_max=800)
+
 
 
     
