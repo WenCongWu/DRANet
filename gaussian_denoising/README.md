@@ -15,7 +15,7 @@ download the [Flickr2K](https://cv.snu.ac.kr/research/EDSR/Flickr2K.tar), and pu
 ### 2.2 get grayscale image patches
 
 ```
-        python convert_gray.py
+        python RGB_To_Gray.py
 ```        
    
 ### 3. Train DRANet
