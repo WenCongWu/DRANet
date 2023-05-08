@@ -1,4 +1,4 @@
-### How to run the DCANet model for Gaussian denoising
+### How to run the DRANet model for Gaussian denoising
 
 ### 1 dataset download
 
