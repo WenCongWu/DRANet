@@ -12,7 +12,7 @@ This is an official PyTorch implementation for DRANet image denoising.
 ### 2. Citation
 
 @article{WU2024110291,
- title = {Dual residual attention network for image denoising},
+ [title = {Dual residual attention network for image denoising},]
  journal = {Pattern Recognition},
  pages = {110291},
  year = {2024},
