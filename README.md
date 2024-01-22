@@ -1,6 +1,6 @@
 ### DRANet-PyTorch
 
-This is a PyTorch implementation for DRANet image denoising. Paper download: [DRANet](https://arxiv.org/abs/2305.04269)
+This is a PyTorch implementation for DRANet image denoising. Paper download: [DRANet](https://www.sciencedirect.com/science/article/abs/pii/S0031320324000426)
 
 ### 1. Dependences
 * [PyTorch](http://pytorch.org/)
