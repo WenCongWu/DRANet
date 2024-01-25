@@ -1,4 +1,4 @@
-Dual residual attention network for image denoising (DRANet）by Wencong Wu, Shijie Liu, Yuelong Xia and Yungang Zhang is publised in Pattern Recognition. arXiv paper download: [DRANet](https://arxiv.org/abs/2305.04269), and PR Paper download: [DRANet](https://www.sciencedirect.com/science/article/abs/pii/S0031320324000426)
+Dual residual attention network for image denoising (DRANet）by Wencong Wu, Shijie Liu, Yuelong Xia and Yungang Zhang is publised in Pattern Recognition. The arXiv paper download: [DRANet](https://arxiv.org/abs/2305.04269), and the PR Paper download: [DRANet](https://www.sciencedirect.com/science/article/abs/pii/S0031320324000426)
 
 ### DRANet-PyTorch
 
