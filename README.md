@@ -10,6 +10,7 @@ This is an official PyTorch implementation for DRANet image denoising.
 * [OpenCV](https://pypi.org/project/opencv-python/)
 
 ### 2. Citation
+If you find DRANet helpful for your research, please consider citing our work.
 ```BibTex
 @article{Wu2024,
   author       = {Wencong Wu and
@@ -23,7 +24,4 @@ This is an official PyTorch implementation for DRANet image denoising.
   year         = {2024}
 }
 ```
-### 3. Other Important Notes
-
-Some codes are from [KAIR](https://github.com/cszn/KAIR) and [MPRNet](https://github.com/swz30/MPRNet)
 
