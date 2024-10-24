@@ -1,6 +1,6 @@
 ### 1 dataset download
 
-Download the [SIDD](https://www.eecs.yorku.ca/~kamel/sidd/dataset.php), and put these datasets into ./Datasets/ directory.
+Download the [SIDD](https://www.eecs.yorku.ca/~kamel/sidd/dataset.php), and put these datasets into ./Datasets/ directory. You can also download this dataset from Google Drive. [train set](https://drive.google.com/file/d/1s8gNDFjYOcD6rIj9N2G-niQkQ-2e9KJn/view?usp=drive_link), [val set](https://drive.google.com/file/d/1s8gNDFjYOcD6rIj9N2G-niQkQ-2e9KJn/view?usp=drive_link), [test set](https://drive.google.com/file/d/1r5WlKYBUUJGHEsq6_-xybxfXrAnA2QGB/view?usp=drive_link)
 
 ### 2 train
 
