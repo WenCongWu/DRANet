@@ -2,8 +2,7 @@ Dual residual attention network for image denoising (DRANet）by Wencong Wu, Shi
 
 Thank you for your attention to our work. Our DRANet wins the **Highly Cited Paper** in November 2024.
 
-![DRANet_Highly_Cited_Paper](https://github.com/user-attachments/assets/25f59d58-38ab-4367-b813-b219d4a03134)
-
+![image](https://github.com/user-attachments/assets/8852ad50-0f13-42ca-9aa9-8a456ba3bdaf)
 
 
 ### DRANet-PyTorch
